@@ -1,0 +1,109 @@
+item,store,price,link
+rice,Amazon,80,https://amazon.in/rice
+rice,Flipkart,82,https://flipkart.com/rice
+rice,BigBasket,78,https://bigbasket.com/rice
+sugar,Zomato,45,https://zomato.com/sugar
+sugar,Amazon,48,https://amazon.in/sugar
+sugar,BigBasket,42,https://bigbasket.com/sugar
+pizza,Zomato,250,https://zomato.com/pizza
+pizza,Swiggy,240,https://swiggy.com/pizza
+pizza,Amazon,255,https://amazon.in/pizza
+milk,Amazon,52,https://amazon.in/milk
+milk,BigBasket,50,https://bigbasket.com/milk
+milk,RelianceSmart,49,https://reliancesmart.in/milk
+bread,BigBasket,38,https://bigbasket.com/bread
+bread,Amazon,40,https://amazon.in/bread
+bread,RelianceSmart,35,https://reliancesmart.in/bread
+eggs,Amazon,65,https://amazon.in/eggs
+eggs,BigBasket,60,https://bigbasket.com/eggs
+eggs,Zomato,58,https://zomato.com/eggs
+butter,Flipkart,120,https://flipkart.com/butter
+butter,BigBasket,115,https://bigbasket.com/butter
+butter,Amazon,118,https://amazon.in/butter
+flour,Amazon,45,https://amazon.in/flour
+flour,Flipkart,44,https://flipkart.com/flour
+flour,BigBasket,43,https://bigbasket.com/flour
+oil,Amazon,140,https://amazon.in/oil
+oil,RelianceSmart,138,https://reliancesmart.in/oil
+oil,BigBasket,142,https://bigbasket.com/oil
+tea,Amazon,110,https://amazon.in/tea
+tea,Flipkart,112,https://flipkart.com/tea
+tea,BigBasket,105,https://bigbasket.com/tea
+coffee,Amazon,190,https://amazon.in/coffee
+coffee,Flipkart,195,https://flipkart.com/coffee
+coffee,BigBasket,185,https://bigbasket.com/coffee
+toothpaste,Amazon,75,https://amazon.in/toothpaste
+toothpaste,Flipkart,70,https://flipkart.com/toothpaste
+toothpaste,RelianceSmart,68,https://reliancesmart.in/toothpaste
+soap,Amazon,35,https://amazon.in/soap
+soap,Flipkart,33,https://flipkart.com/soap
+soap,BigBasket,32,https://bigbasket.com/soap
+shampoo,Amazon,240,https://amazon.in/shampoo
+shampoo,Flipkart,245,https://flipkart.com/shampoo
+shampoo,RelianceSmart,235,https://reliancesmart.in/shampoo
+toor dal,BigBasket,125,https://bigbasket.com/toordal
+toor dal,Amazon,130,https://amazon.in/toordal
+toor dal,Flipkart,128,https://flipkart.com/toordal
+salt,Amazon,20,https://amazon.in/salt
+salt,BigBasket,18,https://bigbasket.com/salt
+salt,RelianceSmart,19,https://reliancesmart.in/salt
+chips,Amazon,30,https://amazon.in/chips
+chips,Zomato,28,https://zomato.com/chips
+chips,Swiggy,27,https://swiggy.com/chips
+noodles,Amazon,55,https://amazon.in/noodles
+noodles,Flipkart,52,https://flipkart.com/noodles
+noodles,RelianceSmart,54,https://reliancesmart.in/noodles
+ice cream,Zomato,150,https://zomato.com/icecream
+ice cream,Swiggy,145,https://swiggy.com/icecream
+ice cream,BigBasket,148,https://bigbasket.com/icecream
+paneer,BigBasket,90,https://bigbasket.com/paneer
+paneer,Amazon,92,https://amazon.in/paneer
+paneer,Flipkart,88,https://flipkart.com/paneer
+cheese,Amazon,120,https://amazon.in/cheese
+cheese,Flipkart,118,https://flipkart.com/cheese
+cheese,BigBasket,115,https://bigbasket.com/cheese
+tomato,BigBasket,25,https://bigbasket.com/tomato
+tomato,RelianceSmart,28,https://reliancesmart.in/tomato
+tomato,Amazon,26,https://amazon.in/tomato
+onion,Amazon,30,https://amazon.in/onion
+onion,BigBasket,29,https://bigbasket.com/onion
+onion,RelianceSmart,28,https://reliancesmart.in/onion
+apple,BigBasket,120,https://bigbasket.com/apple
+apple,Flipkart,125,https://flipkart.com/apple
+apple,Amazon,118,https://amazon.in/apple
+banana,BigBasket,50,https://bigbasket.com/banana
+banana,Zomato,52,https://zomato.com/banana
+banana,Swiggy,49,https://swiggy.com/banana
+grapes,Amazon,95,https://amazon.in/grapes
+grapes,Flipkart,90,https://flipkart.com/grapes
+grapes,BigBasket,92,https://bigbasket.com/grapes
+mango,Amazon,150,https://amazon.in/mango
+mango,Zomato,145,https://zomato.com/mango
+mango,Swiggy,148,https://swiggy.com/mango
+carrot,Amazon,40,https://amazon.in/carrot
+carrot,BigBasket,38,https://bigbasket.com/carrot
+carrot,RelianceSmart,39,https://reliancesmart.in/carrot
+chicken,Swiggy,210,https://swiggy.com/chicken
+chicken,Zomato,215,https://zomato.com/chicken
+chicken,Amazon,220,https://amazon.in/chicken
+fish,Zomato,280,https://zomato.com/fish
+fish,Swiggy,275,https://swiggy.com/fish
+fish,Amazon,285,https://amazon.in/fish
+detergent,Amazon,190,https://amazon.in/detergent
+detergent,Flipkart,185,https://flipkart.com/detergent
+detergent,RelianceSmart,182,https://reliancesmart.in/detergent
+toilet cleaner,Amazon,90,https://amazon.in/toiletcleaner
+toilet cleaner,Flipkart,88,https://flipkart.com/toiletcleaner
+toilet cleaner,RelianceSmart,85,https://reliancesmart.in/toiletcleaner
+dish soap,Amazon,60,https://amazon.in/dishsoap
+dish soap,Flipkart,58,https://flipkart.com/dishsoap
+dish soap,BigBasket,55,https://bigbasket.com/dishsoap
+handwash,Amazon,70,https://amazon.in/handwash
+handwash,Flipkart,68,https://flipkart.com/handwash
+handwash,RelianceSmart,66,https://reliancesmart.in/handwash
+tissue,Amazon,40,https://amazon.in/tissue
+tissue,Flipkart,38,https://flipkart.com/tissue
+tissue,BigBasket,36,https://bigbasket.com/tissue
+biscuits,Amazon,25,https://amazon.in/biscuits
+biscuits,Flipkart,24,https://flipkart.com/biscuits
+biscuits,BigBasket,23,https://bigbasket.com/biscuits
